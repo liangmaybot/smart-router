@@ -283,3 +283,18 @@ MIT License - see [LICENSE](LICENSE) for details.
 **⭐ Star this repo if SmartRouter saves you money!**
 
 </div>
+
+## 📹 Demo Video
+
+**Watch the 90-second demo:** [▶️ Play Video](https://github.com/liangmaybot/smart-router/releases/download/v1.0.0/demo-video.mp4)
+
+[![Demo Video](https://img.shields.io/badge/▶️_Watch_Demo-YouTube-red?style=for-the-badge)](https://github.com/liangmaybot/smart-router/releases/download/v1.0.0/demo-video.mp4)
+
+**Duration:** 90 seconds | **Size:** 1.4 MB  
+**Highlights:**
+- Live cost optimization demo
+- 44x cost savings demonstrated (97.7% reduction!)
+- 50 queries benchmarked
+- Intelligent routing strategy
+
+[View Release](https://github.com/liangmaybot/smart-router/releases/tag/v1.0.0) | [Download MP4](https://github.com/liangmaybot/smart-router/releases/download/v1.0.0/demo-video.mp4)
